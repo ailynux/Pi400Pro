@@ -1,145 +1,225 @@
-# 🚀 Pi400Pro Toolbox
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yourusername/Pi400Pro?style=social)](https://github.com/ailynux/Pi400Pro/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-> Transform your Raspberry Pi 400 into a powerhouse with our comprehensive toolbox! 🛠️
+#  Pi400Pro Toolbox: Maker's Edition 
+![image](https://github.com/user-attachments/assets/0c5b678e-fff9-40ba-a198-8740fd3fac0e)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/Pi400Pro/main/assets/logo.png" alt="Pi400Pro Logo Coming soon" width="300"/>
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/ailynux/Pi400Pro?style=social)](https://github.com/ailynux/Pi400Pro/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Made with Adafruit](https://img.shields.io/badge/Made%20with-Adafruit-ff69b4)](https://www.adafruit.com/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![CircuitPython](https://img.shields.io/badge/CircuitPython-8.x-blueviolet)](https://circuitpython.org/)
+
 </div>
 
-## 📊 Performance Improvements
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="65" height="65" /> Transform Your Raspberry Pi 400 into an Advanced Maker Station <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="65" height="65" /></h3>
+  <p><em>Featuring Adafruit Hardware Integration, Advanced Python Tools, and Maker-Ready Components</em></p>
+</div>
 
-Our optimization suite delivers remarkable performance gains:
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+</div>
+
+## 🌟 Featured Hardware Support
+
+### Adafruit Integration
 ```mermaid
 graph LR
-    A[Stock Pi400] --> B[Pi400Pro]
-    B --> C[CPU OC]
-    B --> D[GPU OC]
-    B --> E[RAM OC]
-    C --> F[+20% Performance]
-    D --> G[+15% Graphics]
-    E --> H[+10% Memory Speed]
+    A[Pi400] --> B[Adafruit HATs]
+    A --> C[Sensors]
+    A --> D[Displays]
+    B --> E[Cyberdeck]
+    B --> F[Motor Control]
+    C --> G[Environmental]
+    C --> H[Motion]
+    D --> I[OLED]
+    D --> J[LCD]
+```
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/be91c440-fa52-493a-bc37-b6284af648e0" alt="Pi400Pro Logo" width="200"/>
+  <div>
+    
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/ailynux/Pi400Pro?style=social)](https://github.com/ailynux/Pi400Pro/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Powered by Adafruit](https://img.shields.io/badge/Powered%20by-Adafruit-blueviolet)](https://www.adafruit.com/)
+  </div>
+</div>
+
+> Transform your Raspberry Pi 400 into the ultimate maker station with Adafruit hardware integrations and powerful development tools! 🛠️
+
+## 🌟 Featured Adafruit Integration
+
+### Supported Hardware
+- 🎩 **Cyberdeck HATs & Bonnets**
+  - Display-O-Tron HAT
+  - RTC HAT
+  - Servo/PWM HAT
+  - Mini PiTFT
+    
+<img src="https://github.com/user-attachments/assets/ad041ad9-ed9c-4183-b8d8-a93d1c7ff3a4" alt="Milky Way" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/07091dbf-a4c3-402c-8370-35382cefa625" alt="Image 2" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/2aba3805-a589-4bc1-b28f-fbe0f181cc09" alt="Image 3" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/a9a75fd1-dbf4-46ef-9312-4f650257669c" alt="Image 4" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/7e639b40-827a-4115-98da-7ba66a0e7262" alt="Image 5" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/bfc5336a-9916-4ab2-8662-ab27c5cce4c4" alt="Additional Image 1" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/f05ccb9c-024f-461a-9747-40287b90052a" alt="Additional Image 2" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/eb7c610b-5e21-4235-b5a6-2a0fcb57fbbc" alt="Additional Image 3" width="200" height="200" />
+
+
+
+ 
+- 🔧 **Sensors & Components**
+  - BME680 Environmental Sensor
+  - NeoPixel strips
+  - STEMMA QT sensors
+  - Motor controllers
+
+### Pre-configured Libraries
+```python
+# Quick start with Adafruit components
+from adafruit_motorkit import MotorKit
+from adafruit_servokit import ServoKit
+from adafruit_bme680 import BME680
+
+# Initialize your hardware
+kit = MotorKit()
+servo = ServoKit(channels=16)
+sensor = BME680()
 ```
 
-## ✨ Features
+## 🚀 Maker's Feature Set
 
-- 🎯 **One-Click Optimization**
-  - CPU frequency optimization
-  - GPU memory split adjustment
-  - Temperature monitoring
-  - Automatic fan control
+### Hardware Optimization
+- ⚡ Advanced CPU/GPU overclocking profiles
+- 🌡️ Temperature monitoring with Adafruit BME680
+- 🎮 GPIO optimization for HATs and Bonnets
+- 💻 Display configuration for various Adafruit screens
 
-- 🎮 **Gaming Enhancements**
-  - RetroArch optimization presets
-  - Controller mapping tools
-  - FPS boost configurations
+### Development Environment
+- 🐍 Python development toolkit
+  - Pre-configured CircuitPython support
+  - Adafruit_Blinka library integration
+  - Auto-detection of I2C devices
+- 🔧 Hardware testing suite
+  - GPIO pin testing
+  - I2C device scanning
+  - PWM signal verification
 
-- 💻 **Development Tools**
-  - VS Code optimization
-  - Git performance tweaks
-  - Docker container optimization
+### Example Projects
+```python
+# Control NeoPixels with patterns
+import board
+import neopixel
+from time import sleep
 
-## 🚀 Quick Start
+pixels = neopixel.NeoPixel(board.D18, 30)
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/Pi400Pro.git
-
-# Navigate to directory
-cd Pi400Pro
-
-# Run the installer
-./install.sh
+def rainbow_cycle(wait):
+    for j in range(255):
+        for i in range(30):
+            pixel_index = (i * 256 // 30) + j
+            pixels[i] = wheel(pixel_index & 255)
+        pixels.show()
+        sleep(wait)
 ```
 
-## 📈 Benchmark Results
-
-| Test | Stock Pi400 | Pi400Pro | Improvement |
-|------|-------------|----------|-------------|
-| Boot Time | 32s | 18s | 43.75% ⬇️ |
-| CPU Score | 1000 | 1200 | 20% ⬆️ |
-| GPU Score | 800 | 920 | 15% ⬆️ |
-| Memory Speed | 3200 MB/s | 3520 MB/s | 10% ⬆️ |
-
-## 🌟 Key Features Deep Dive
-
-<details>
-<summary>🔥 Performance Optimizer</summary>
-
-- Advanced CPU governor settings
-- Dynamic voltage scaling
-- Intelligent thermal management
-- Custom overclock profiles
-</details>
-
-<details>
-<summary>🎮 Gaming Suite</summary>
-
-- EmulationStation optimizations
-- Shader cache management
-- Controller latency reduction
-- Custom resolution profiles
-</details>
-
-<details>
-<summary>🛠️ Development Tools</summary>
-
-- IDE optimization presets
-- Git LFS configurations
-- Docker performance tweaks
-- VSCode remote development setup
-</details>
-
-## 🎯 Installation Progress
-
-```
-Installing Pi400Pro...
-[█████████████████████████████] 100%
-```
-
-## 🌐 Community Stats
-
-```mermaid
-pie title Pi400Pro User Distribution
-    "Gamers" : 45
-    "Developers" : 30
-    "Education" : 15
-    "Other" : 10
-```
-
-## 💡 Contributing
-
-We love contributions! Please check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+## 📊 Hardware Performance Suite
 
 ```mermaid
 graph TD
-    A[Fork Repository] --> B[Create Branch]
-    B --> C[Make Changes]
-    C --> D[Submit PR]
-    D --> E[Code Review]
-    E --> F[Merge!]
+    A[Pi400 Base] --> B[Hardware Additions]
+    B --> C[Adafruit HATs]
+    B --> D[Sensors]
+    B --> E[Displays]
+    C --> F[Enhanced GPIO]
+    D --> G[Environmental Data]
+    E --> H[Visual Output]
 ```
 
-## 🎉 Success Stories
+## 🛠️ Quick Start Guide
 
-> "Pi400Pro turned my Pi 400 into a development powerhouse!" - @developer123
+```bash
+# Clone the repository
+git clone https://github.com/ailynux/Pi400Pro.git
 
-> "Gaming performance improved dramatically!" - @gamer456
+# Install dependencies
+pip3 install -r requirements.txt
 
-## 📊 Project Activity
+# Run the hardware detection
+python3 setup.py --scan-hardware
 
-![Ailynux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailynux&show_icons=true&theme=github)
+# Launch the configuration UI
+python3 configure.py
+```
+
+## 🔧 Project Examples
+
+### Environmental Monitor
+```python
+import time
+import board
+from adafruit_bme680 import BME680
+
+i2c = board.I2C()
+sensor = BME680(i2c)
+
+while True:
+    print(f"Temperature: {sensor.temperature}°C")
+    print(f"Humidity: {sensor.humidity}%")
+    print(f"Pressure: {sensor.pressure}hPa")
+    print(f"Gas: {sensor.gas}Ω")
+    time.sleep(1)
+```
+
+### LED Matrix Display
+```python
+from adafruit_ht16k33.matrix import Matrix8x8
+import board
+import time
+
+i2c = board.I2C()
+matrix = Matrix8x8(i2c)
+
+# Display a heart pattern
+matrix.fill(0)
+pattern = [
+    [0,1,1,0,0,1,1,0],
+    [1,1,1,1,1,1,1,1],
+    [1,1,1,1,1,1,1,1],
+    [1,1,1,1,1,1,1,1],
+    [0,1,1,1,1,1,1,0],
+    [0,0,1,1,1,1,0,0],
+    [0,0,0,1,1,0,0,0],
+    [0,0,0,0,0,0,0,0]
+]
+matrix.matrix = pattern
+```
+
+## 📚 Documentation
+
+- [Hardware Setup Guide](docs/HARDWARE.md)
+- [Software Configuration](docs/SOFTWARE.md)
+- [Adafruit Integration Guide](docs/ADAFRUIT.md)
+- [Project Examples](docs/EXAMPLES.md)
+- [Troubleshooting](docs/TROUBLESHOOTING.md)
 
 
+## 🤝 Contributing
 
+We welcome contributions! Check out our [Contributing Guide](CONTRIBUTING.md).
 
-## 🌟 Show Your Support
-
-Give us a ⭐️ if this project helped you!
+```mermaid
+graph LR
+    A[Fork] --> B[Create Branch]
+    B --> C[Add Feature]
+    C --> D[Test]
+    D --> E[Submit PR]
+```
 
 ## 📝 License
 
@@ -148,5 +228,5 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 <div align="center">
-Made with ❤️ for the Raspberry Pi community
+Made with 💜 for the Raspberry Pi & Adafruit Community
 </div>
