@@ -226,6 +226,19 @@ graph LR
 Copyright © 2024 [ailynux](https://github.com/ailynux).
 This project is [MIT](LICENSE) licensed.
 
+## 📬 Contact Me
+
+If you'd like to connect, feel free to reach out through my website or LinkedIn. I'm always open to collaborations and discussions!
+
+<div align="center">
+    <a href="https://ailynux.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-ailynswebsite-blue?style=for-the-badge&logo=Google%20Chrome" alt="Website Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ailyndiaz01" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Ailyn%20Diaz-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
 ---
 <div align="center">
 Made with 💜 for the Raspberry Pi & Adafruit Community
