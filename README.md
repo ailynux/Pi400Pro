@@ -243,7 +243,6 @@ If you'd like to connect, feel free to reach out through my website or LinkedIn.
 <div align="center">
   <img src="https://your-image-url-here.com/logo.png" alt="Project Logo" width="120" style="border-radius:50%">
   <h2>✨ Made with 💜 for the Raspberry Pi & Adafruit Community ✨</h2>
-  <p>Your go-to project for everything Pi & Adafruit! 🌌</p>
   <br>
 
   <img src="https://github.com/user-attachments/assets/46e83e4c-7703-4b8b-b39f-4db8a5315426" alt="Divider" width="60%">
