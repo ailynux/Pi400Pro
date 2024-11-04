@@ -3,6 +3,13 @@
 
 ---
 
+### Examples: 
+
+![image](https://github.com/user-attachments/assets/9ceba79f-a9c8-4e78-a5d1-4cac6c6e3fa6)
+
+
+
+
 ### **Option 1: Setting Up Nagios**
 
 Nagios is a powerful tool for monitoring systems, networks, and infrastructure. It’s relatively lightweight and can be a good fit for the Pi 400.
