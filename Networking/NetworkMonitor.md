@@ -3,10 +3,14 @@
 
 ---
 
-### Examples: 
+### Monitoring: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ceba79f-a9c8-4e78-a5d1-4cac6c6e3fa6" width="400" alt="image1"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/9ceba79f-a9c8-4e78-a5d1-4cac6c6e3fa6)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afcaeedf-2005-47a5-8781-98a179867cbc" width="400" alt="image2"/>
+</p>
 
 
 
@@ -77,6 +81,12 @@ Nagios is a powerful tool for monitoring systems, networks, and infrastructure. 
 - You can monitor specific devices by adding them to Nagios configuration files in `/usr/local/nagios/etc/objects/`. Define hosts, services, and notifications based on what you need to monitor (CPU load, bandwidth, uptime, etc.).
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffd2dab6-2240-4510-a9fe-24799c089fed" width="400" alt="image"/>
+</p>
+
+
 
 ### **Option 2: Setting Up Zabbix**
 
