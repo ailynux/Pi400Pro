@@ -1,4 +1,5 @@
 # Adafruit Cyberdeck Bonnet
+![image](https://github.com/user-attachments/assets/7650a365-7e35-4a2e-b0a1-308a7be5442c)
 
 The **Adafruit Cyberdeck Bonnet** is a versatile add-on board designed to turn your Raspberry Pi into a cyberdeck, ideal for portable setups with displays and other peripherals. This bonnet is compatible with various Raspberry Pi models, enabling a compact, DIY computing setup suitable for hacking, development, and IoT projects.
 
