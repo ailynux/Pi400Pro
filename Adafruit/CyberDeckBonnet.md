@@ -111,7 +111,7 @@ Refer to the official Raspberry Pi and Adafruit documentation for more configura
 
 ## Resources
 
-- [Adafruit Cyberdeck Bonnet Product Page](https://www.adafruit.com/product/XXXX)
+- [Adafruit Cyberdeck Bonnet Product Page](https://www.adafruit.com/product/4862)
 - [Adafruit CircuitPython Library](https://circuitpython.org/libraries)
 - [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
 - [Adafruit Guides & Tutorials](https://learn.adafruit.com/)
