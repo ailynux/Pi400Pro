@@ -1,4 +1,4 @@
-# Create a Raspi Pi Web Server
+# Creating a Raspi Pi Web Server? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="105" height="105" />
 
 ```
 __        __   ____               _🍃_
@@ -8,7 +8,7 @@ __        __   ____               _🍃_
    \_/\_/ \___|____/             '._     _.'
                                      `"""`
 ```
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="85" height="85" /> Ultimate Raspberry Pi Web Server Setup Guide
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="85" height="85" /> The Ultimate Raspberry Pi Web Server Setup Guide
 [![Made for Raspberry Pi](https://img.shields.io/badge/Made%20for-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)](https://www.raspberrypi.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/your-username/your-repo)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/your-username/your-repo/issues)
@@ -118,8 +118,6 @@ sudo apt install php php-mysql php-curl php-gd php-mbstring php-xml php-zip -y
 # Create PHP info page
 echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php
 ```
-
-[Previous sections remain the same until Core Components...]
 
 ## 🔧 Core Components
 
@@ -253,9 +251,6 @@ echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php
   upload_max_filesize = 32M
   ```
 
-[Rest of the document remains the same...]
-
-
 ## 🔒 Security Measures
 
 ### Firewall Configuration
@@ -384,6 +379,16 @@ hugo server
 - [PHP Manual](https://www.php.net/manual/en/)
 - [MySQL Reference](https://dev.mysql.com/doc/)
 - [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
+
+---
+
+### 📬 Contact Me
+
+For any questions, feedback, or to connect, reach out via the following links:
+
+- 🌐 **Website**: [ailynux.github.io](https://ailynux.github.io)
+- 💼 **LinkedIn**: [linkedin.com/in/ailyndiaz01](https://www.linkedin.com/in/ailyndiaz01)
+- 🐙 **GitHub**: [github.com/ailynux](https://github.com/ailynux)
 
 ---
 
