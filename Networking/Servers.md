@@ -1,4 +1,19 @@
+<div align="center">
+
+# Raspberry Pi 400 Web Server Setup 🌐<img src="https://github.com/user-attachments/assets/c1914303-b0f3-4029-a696-2c7f7f87d8bc" alt="Raspberry Pi Logo" width="100"/>
+
+<p align="center">
+   <strong>Welcome to an adventure in web hosting on your Raspberry Pi 400!<br>
+   Transform your Pi into a powerful web server in just a few steps.</strong>
+</p>
+
+</div>
+
+---
+
 # Creating a Raspi Pi Web Server? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="105" height="105" />
+
+### 🏷️ Tagged: `Raspberry Pi 400` | `Web Server` | `LAMP Stack`
 
 ```
 __        __   ____               _🍃_
