@@ -1,17 +1,17 @@
 # Create a Raspi Pi Web Server
 
 ```
-__        __   ____  
-\ \      / /__| __ ) 
- \ \ /\ / / _ \  _ \ 
-  \ V  V /  __/ |_) |
-   \_/\_/ \___|____/ 
-
+__        __   ____               _🍃_
+\ \      / /__| __ )           .:('     ').
+ \ \ /\ / / _ \  _ \           (  R A S P  )
+  \ V  V /  __/ |_) |           \ B E R R Y /
+   \_/\_/ \___|____/             '._     _.'
+                                     `"""`
 ```
 
 ---
 
-## 📝 Instructions
+## 📝 Instructions basic 
 
 1. **Starting Apache Server**  
    To start your Apache server manually, use:
@@ -41,23 +41,29 @@ __        __   ____
 
 ## 🛠️ Tools Installed
 
+[![Apache](https://img.shields.io/badge/Apache-2.4.54-red?style=flat-square&logo=apache)](https://httpd.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0.31-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![PHP](https://img.shields.io/badge/PHP-7.4.30-purple?style=flat-square&logo=php)](https://www.php.net/)
+
 - **Apache**: Web server
 - **MySQL**: Database management
 - **PHP**: Scripting language for dynamic content
-
 
 ```
      .--.      .--.    
    .'_\/_'.  .'_\/_'.
    '. /\ .'  '. /\ .' 
      "||"      "||"   
-      ||_________||  
-       '----------'
+      ||________||  
+      '----------'
 ```
 
-Happy hosting!
+🎉 H   A   P   P   Y      H   O   S   T   I   N   G   ! 🎉
 
-## Instructions - web server on a Raspberry Pi 
+---
+
+# 🌐✨ Setting Up Your Web Server on a Raspberry Pi ✨🌐
+*Detailed*
 
 ### Step 1: Initial Setup and Updates
 First, make sure your Raspberry Pi is up-to-date. Open a terminal and run:
